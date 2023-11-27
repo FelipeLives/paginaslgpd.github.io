@@ -1,0 +1,45 @@
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.titulo{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px;
+font-size: 50px;
+font-weight: bold;
+}
+
+.subTitulo{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px;
+font-size: 25px;
+}
+.table{
+    width: 80%;
+    height: 80%;
+    margin-left: 120px;
+}
+
+.input{
+    padding: 30px 215px 30px 106px;
+}
+
+.selectdrop{
+    height: 40px;
+    width: 150px;
+    padding-left: 20px;
+}
+
+.tpQuestao{
+    margin-left: 100px;
+}
+
+.corpoMultiplaEscolha{
+    padding-top: 35px;
+}
+
